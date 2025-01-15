@@ -23,6 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 Notion: 
 1. Allows users to create pages, databases, and lists tailored to their needs.
 2. Connects with tools like Google Calendar, Slack, and Zapier for seamless workflow.
+
 Spotify
 1. Customizes playlists (with unlimited skips) based on previous listens.
 2. Download music/playlists without internet
