@@ -38,6 +38,20 @@ Snapchat
 2. SnapMap and Streaks allows for more daily and consistent engagement
 3. Premium features allow for changing background and checking for half-swipes
 
+
+New App Idea:
+Recipe Roulette is a fun and interactive cooking app for
+people who struggle with deciding what to eat or want to break
+out of their usual meal routines. Users can input ingredients
+they have on hand, dietary preferences, or time constraints,
+and the app spins a "roulette wheel" to suggest a random
+recipe that fits their criteria.
+    Key features:  
+    1. Input available ingredients, and the app generates recipes to reduce food waste.
+    2. A playful spin feature to randomly select a recipe, making meal planning more exciting.
+    3. Options for vegetarian, vegan, gluten-free, and other dietary needs.
+    4. Users can upload their own recipes for others to try.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
