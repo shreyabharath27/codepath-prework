@@ -55,8 +55,9 @@ Key features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+1. Learning how to use xcode.
+2. Glitches while testing on different simulators
+3. Designing user interfaces for first time, figuring out what all the different features are. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
