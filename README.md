@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Codepath Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Shreya Bharath**
 
-**Name of your app** is an app that... [TODO] 
+**Codepath prework** is an app that... [Contains labels about myself (includes name, school, aspirational job. Also it can change the background color with the click of a button.] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
