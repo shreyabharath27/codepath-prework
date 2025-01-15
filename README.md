@@ -2,7 +2,7 @@
 
 Submitted by: **Shreya Bharath**
 
-**Codepath prework** is an app that... [Contains labels about myself (includes name, school, aspirational job. Also it can change the background color with the click of a button.] 
+**Codepath prework** is an app that contains labels about myself (includes name, school, aspirational job. Also it can change the background color with the click of a button. Also contains some image views. 
 
 Time spent: **4** hours spent in total
 
@@ -20,6 +20,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Notion: 
+1. Allows users to create pages, databases, and lists tailored to their needs.
+2. Connects with tools like Google Calendar, Slack, and Zapier for seamless workflow.
+Spotify
+1. Customizes playlists (with unlimited skips) based on previous listens.
+2. Download music/playlists without internet
+
+Canva
+1. Drag and drop features for quick creation of professional designs
+2. Wide variety of templates for different events
+3. Team editing and sharing capabilities
+
+Snapchat
+1. Fun and creative lenses and Bitmojis that enhance photos and videos.
+2. SnapMap and Streaks allows for more daily and consistent engagement
+3. Premium features allow for changing background and checking for half-swipes
 
 ## Notes
 
